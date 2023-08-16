@@ -1,8 +1,10 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Petar 👋
 
 Experienced Fullstack Developer | JavaScript Maestro | UI Artisan
 
 🚀 With over 3 years of hands-on experience in the dynamic realm of JavaScript technologies, I am your go-to fullstack developer. My journey through the ever-evolving landscape of web development has been enriched by my expertise in an array of tools and frameworks, including Node.js and Next.js.
+
+<img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"  />
 
 ## 💡 Skills and Expertise
 - Frontend: React, Angular
