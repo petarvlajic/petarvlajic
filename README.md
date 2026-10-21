@@ -14,9 +14,9 @@
 
 ## About
 
-3+ years building web products from database to pixel. I like the unglamorous parts that make software last: schema design, typed contracts between front and back end, accessibility, performance budgets, and tests that fail for the right reasons.
+5+ years building web products from database to pixel. I like the unglamorous parts that make software last: schema design, typed contracts between front and back end, accessibility, performance budgets, and tests that fail for the right reasons.
 
-- 🔭 **Now:** a production booking platform for Serbian accommodation, a community escape-room directory, and an agency site with a WebGL hero
+- 🔭 **Domains:** hospitality and booking, community platforms, surveys and data collection, agency and marketing sites
 - 🧱 **Default stack:** Next.js (App Router) + TypeScript + Tailwind v4, with Postgres underneath
 - 🎨 **Care about:** interfaces that feel considered, with real motion design, real mobile behaviour (no hover-only UI), and real touch targets
 - 🌍 **Languages:** Serbian (native), English (professional)
@@ -51,7 +51,7 @@
 
 ## Selected work
 
-> Most of what I build for clients and products lives in private repos. These are the public ones, plus what I'm building now.
+> Client and product work lives in private repos. These are the public ones.
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -60,19 +60,22 @@
 | [**bonn-leads**](https://github.com/petarvlajic/bonn-leads) | Expo / React Native app for lead management. | Expo · React Native · TypeScript |
 | [**belgrade-map**](https://github.com/petarvlajic/belgrade-map) | Map project focused on Belgrade. | React · Vite · TypeScript |
 
-**Currently building (private)**
+## Domains I work in
 
-- 🏠 **Accommodation booking platform** for Serbian apartments and houses: FastAPI, PostgreSQL/PostGIS, Redis, Celery, Meilisearch, and a Next.js admin
-- 🧩 **Escape Serbia:** a non-profit, community-driven escape-room directory. Next.js 15, Supabase, MapLibre, taste-based recommendations, and a moderation queue that keeps spam out of user submissions
-- ✨ **slick.rs:** agency site with GSAP, Lenis and Three.js, bilingual (EN / SR)
-- 🧪 **Laravel 12** backend work and a Shopify / Magento / WordPress / PHP automation practice
+| Domain | What I build | Typical tools |
+|---|---|---|
+| 🏠 **Hospitality & booking** | Availability and search, iCal sync, background jobs, admin dashboards | FastAPI, PostgreSQL/PostGIS, Redis, Celery, Meilisearch, Next.js |
+| 🗺️ **Community & discovery platforms** | Directories with maps, moderation queues, taste-based recommendations | Next.js, Supabase, MapLibre, motion |
+| 📋 **Surveys & data collection** | Authenticated APIs, offline-friendly mobile capture, CSV/PDF exports | Express, MongoDB, Expo, Swagger |
+| ✨ **Agency & marketing sites** | Bilingual, scroll-driven, WebGL-enhanced, fast and accessible | Next.js, GSAP, Lenis, Three.js |
+| 🛒 **E-commerce & CMS** | Automation and integrations | Shopify, Magento, WordPress, PHP, Laravel |
 
 ## How I work
 
 - **Verify, don't assume.** UI changes get checked at 320 / 375 / 390 px in a real browser, and migrations get run against a disposable Postgres before they touch a live database.
 - **Make it re-runnable.** Seeds and migrations are idempotent, so a half-failed run never leaves a mess.
 - **Design with a point of view.** Tokens over magic numbers, motion that explains something, content that's honest. No invented metrics, no placeholder testimonials.
-- **Secrets stay secret.** Pooler vs direct connections, rotated keys, nothing pasted into chat or committed.
+- **Secrets stay secret.** Rotated keys, least-privilege access, nothing committed.
 
 ## GitHub stats
 
